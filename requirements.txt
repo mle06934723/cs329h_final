@@ -1,0 +1,19 @@
+# Core ML frameworks
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Hugging Face libraries
+transformers>=4.36.0
+diffusers>=0.31.0
+accelerate>=0.25.0
+peft>=0.7.0
+trl>=0.7.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Training utilities
+tqdm>=4.65.0
+tensorboard>=2.14.0
